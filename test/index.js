@@ -1,6 +1,6 @@
 import assert from 'assert';
 
-describe('Test', () => {
+describe('Test1', () => {
     it('should work', () => {
         assert(true == true);
     });
